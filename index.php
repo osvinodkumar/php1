@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "Vinod My first PHP script NEW !";
+echo "Vinod My first PHP script NEW TEST !";
 ?>
 
 </body>
